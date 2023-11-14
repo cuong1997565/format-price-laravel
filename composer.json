@@ -1,5 +1,5 @@
 {
-    "name": "fhsinchy/inspire",
+    "name": "cuongnx/inspire",
     "autoload": {
         "psr-4": {
             "Fhsinchy\\Inspire\\": "src/"
