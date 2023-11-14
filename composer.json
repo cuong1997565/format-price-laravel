@@ -14,5 +14,13 @@
     "require": {
         "guzzlehttp/guzzle": "^7.0.1"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "description": "A simple package to send mail notification to the user when their password is changed.",
+    "keywords": [
+        "format-price",
+        "laravel"
+        ],
+    "homepage": "https://github.com/cuong1997565/format-price-laravel",
+    "license": "MIT"
 }
